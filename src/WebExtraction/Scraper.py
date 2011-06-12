@@ -12,4 +12,10 @@ class Scraper:
     def __init__(self,ifile):
         uriFileHandler = open(ifile,'r')
         self.URIList = uriFileHandler.readlines()
-    
+    def getArticles(self):
+        for i in range(len(self.URIList)):
+            f = urllib.request.urlopen(str(self.URIList[i]))
+            article = f.readlines()
+            print(article)
+s = Scraper(sys.argv[1])
+s.getArticles()
