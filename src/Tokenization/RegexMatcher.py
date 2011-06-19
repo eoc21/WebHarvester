@@ -3,7 +3,7 @@ Created on Jun 12, 2011
 Identifies tokens through regular expressions.
 @author: eoc21
 '''
-import os
+import os, re
 class ChemicalRegexMatcher():
     def __init__(self):
         self.found = False
@@ -15,8 +15,9 @@ class ChemicalRegexMatcher():
         for i in range(len(chemicalElements)):
             if token == str(chemicalElements[i]).strip():
                 self.names.append(token)
-            
+    
     def IsPresent(self,name):
         pass
     def getNames(self):
         pass
+

@@ -18,7 +18,6 @@ class Scraper:
             f = urllib.request.urlopen(str(self.URIList[i]))
             article = f.readlines()
             self.articles.append(article)
-            print(article)
         return self.articles
-s = Scraper(sys.argv[1])
-s.getArticles()
+#s = Scraper(sys.argv[1])
+#s.getArticles()
