@@ -19,5 +19,4 @@ class Scraper:
             article = f.readlines()
             self.articles.append(article)
         return self.articles
-#s = Scraper(sys.argv[1])
-#s.getArticles()
+
