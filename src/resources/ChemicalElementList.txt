@@ -1,113 +1,113 @@
-Ac 	Actinium 
-Al 	Aluminum 
-Am 	Americium 
-Sb 	Antimony 
-Ar 	Argon 
-As 	Arsenic 
-At 	Astatine 
-Ba 	Barium 
-Bk 	Berkelium 
-Be 	Beryllium 
-Bi 	Bismuth 
-Bh 	Bohrium 
-B 	Boron 
-Br 	Bromine 
-Cd 	Cadmium 
-Ca 	Calcium 
-Cf 	Californium 
-C 	Carbon 
-Ce 	Cerium 
-Cs 	Cesium 
-Cl 	Chlorine 
-Cr 	Chromium 
-Co 	Cobalt 
-Cn 	Copernicium 
-Cu 	Copper 
-Cm 	Curium 
-Ds 	Darmstadtium 
-Db 	Dubnium 
-Dy 	Dysprosium 
-Es 	Einsteinium 
-Er 	Erbium 
-Eu 	Europium 
-Fm 	Fermium 
-F 	Fluorine 
-Fr 	Francium 
-Gd 	Gadolinium 
-Ga 	Gallium 
-Ge 	Germanium 
-Au 	Gold 
-Hf 	Hafnium 
-Hs 	Hassium 
-He 	Helium 
-Ho 	Holmium 
-H 	Hydrogen 
-In 	Indium 
-I 	Iodine 
-Ir 	Iridium 
-Fe 	Iron 
-Kr 	Krypton 
-La 	Lanthanum 
-Lr 	Lawrencium 
-Pb 	Lead 
-Li 	Lithium 
-Lu 	Lutetium 
-Mg 	Magnesium 
-Mn 	Manganese 
-Mt 	Meitnerium 
-Md 	Mendelevium 
-Hg 	Mercury 
-Mo 	Molybdenum 
-Ns 	Neilsborium 
-Nd 	Neodymium 
-Ne 	Neon 
-Np 	Neptunium 
-Ni 	Nickel 
-Nb 	Niobium 
-N 	Nitrogen 
-No 	Nobelium 
-Os 	Osmium 
-O 	Oxygen 
-Pd 	Palladium 
-P 	Phosphorus 
-Pt 	Platinum 
-Pu 	Plutonium 
-Po 	Polonium 
-K 	Potassium 
-Pr 	Praseodymium 
-Pm 	Promethium 
-Pa 	Protactinium 
-Ra 	Radium 
-Rn 	Radon 
-Re 	Rhenium 
-Rh 	Rhodium 
-Rg 	Roentgenium 
-Rb 	Rubidium 
-Ru 	Ruthenium 
-Rf 	Rutherfordium 
-Sm 	Samarium 
-Sc 	Scandium 
-Sg 	Seaborgium 
-Se 	Selenium 
-Si 	Silicon 
-Ag 	Silver 
-Na 	Sodium 
-Sr 	Strontium 
-S 	Sulfur 
-Ta 	Tantalum 
-Tc 	Technetium 
-Te 	Tellurium 
-Tb 	Terbium 
-Tl 	Thallium 
-Th 	Thorium 
-Tm 	Thulium 
-Sn 	Tin 
-Ti 	Titanium 
-W 	Tungsten 
-U 	Uranium 
-V 	Vanadium 
-Xe 	Xenon 
-Yb 	Ytterbium 
-Y 	Yttrium 
-Zn 	Zinc 
-Zr 	Zirconium 
+Actinium 
+Aluminum 
+Americium 
+Antimony 
+Argon 
+Arsenic 
+Astatine 
+Barium 
+Berkelium 
+Beryllium 
+Bismuth 
+Bohrium 
+Boron 
+Bromine 
+Cadmium 
+Calcium 
+Californium 
+Carbon 
+Cerium 
+Cesium 
+Chlorine 
+Chromium 
+Cobalt 
+Copernicium 
+Copper 
+Curium 
+Darmstadtium 
+Dubnium 
+Dysprosium 
+Einsteinium 
+Erbium 
+Europium 
+Fermium 
+Fluorine 
+Francium 
+Gadolinium 
+Gallium 
+Germanium 
+Gold 
+Hafnium 
+Hassium 
+Helium 
+Holmium 
+Hydrogen 
+Indium 
+Iodine 
+Iridium 
+Iron 
+Krypton 
+Lanthanum 
+Lawrencium 
+Lead 
+Lithium 
+Lutetium 
+Magnesium 
+Manganese 
+Meitnerium 
+Mendelevium 
+Mercury 
+Molybdenum 
+Neilsborium 
+Neodymium 
+Neon 
+Neptunium 
+Nickel 
+Niobium 
+Nitrogen 
+Nobelium 
+Osmium 
+Oxygen 
+Palladium 
+Phosphorus 
+Platinum 
+Plutonium 
+Polonium 
+Potassium 
+Praseodymium 
+Promethium 
+Protactinium 
+Radium 
+Radon 
+Rhenium 
+Rhodium 
+Roentgenium 
+Rubidium 
+Ruthenium 
+Rutherfordium 
+Samarium 
+Scandium 
+Seaborgium 
+Selenium 
+Silicon 
+Silver 
+Sodium 
+Strontium 
+Sulfur 
+Tantalum 
+Technetium 
+Tellurium 
+Terbium 
+Thallium 
+Thorium 
+Thulium 
+Tin 
+Titanium 
+Tungsten 
+Uranium 
+Vanadium 
+Xenon 
+Ytterbium 
+Yttrium 
+Zinc 
+Zirconium 
