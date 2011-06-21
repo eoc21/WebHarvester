@@ -12,4 +12,5 @@ articles = s.getArticles()
 
 chp = ChemicalHTMLParser(articles)
 paras = chp.getParagraphs()
-print(paras)
+extractor = ExtractChemicalNames()
+extractor.ExtractNames(paras)

@@ -23,5 +23,5 @@ class ChebiDictionary():
         else:
             return "Not found!"
         
-c = ChebiDictionary()
-c.initializeDictionary()
+#c = ChebiDictionary()
+#c.initializeDictionary()
