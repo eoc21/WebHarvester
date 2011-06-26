@@ -32,7 +32,7 @@ class ExtractChemicalNames:
                 pass
             else:
                 for j in range(len(c.dictionaryEntries)):
-                    if c.dictionaryEntries[j] in processedArticles[i]:
+                    if c.dictionaryEntries[j] in processedArticles[i] and len(c.dictionaryEntries[j]) >= 3:
                         print(c.dictionaryEntries[j])
             
             
