@@ -15,6 +15,15 @@ class ChemicalRegexMatcher():
         for i in range(len(chemicalElements)):
             if token == str(chemicalElements[i]).strip():
                 self.names.append(token)
+    def PrefixMatch(self,token):
+        path = os.path.expanduser('../resources/Regex/Prefixes')
+        prefixRegexFile = open(path,'r')
+        prefixRegexes = prefixRegexFile.readlines()
+        for i in range(len(prefixRegexes)):
+            m = re.search(str(prefixRegexes[i]),token)
+            print(m.group(0))
+    def SuffixMatch(self,token):
+        pass
     
     def IsPresent(self,name):
         pass
