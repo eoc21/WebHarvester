@@ -17,4 +17,4 @@ extractor = ExtractChemicalNames()
 extractor.ExtractNames(paras)
 regexMatcher = ChemicalRegexMatcher()
 regexMatcher.PrefixMatch("abcdef")
-#output test.
+#output test!.
